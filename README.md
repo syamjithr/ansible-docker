@@ -1,5 +1,5 @@
 # ansible-docker
-## This simple ansible playbook used to install docker on ubuntu and creates two test container.
+## This simple ansible playbook used to install docker on ubuntu and creates two test containers.
 vim docker-ubuntu.yaml
 ```
 ---
